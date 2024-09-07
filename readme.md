@@ -1,5 +1,4 @@
 # cool anti aliasing for lowrez sprites in a highrez world
-
 about a year or more ago this youtuber named t3ssel8r uploaded a [video](https://www.youtube.com/watch?v=d6tp43wZqps) describing a new and cool method for antialiasing what is essentially low resolution billboards on high resolution render targets, in 3d. this is really nice if you make the kinds of things that i like to make: twodee threedee.
 
 click the image below to see an example of the filter in use, make sure you watch at fullscreen and in hd. the right side is with the filter, the left side is without it.
@@ -7,7 +6,6 @@ click the image below to see an example of the filter in use, make sure you watc
 [![YouTube](http://i.ytimg.com/vi/fylwX6hnKDk/hqdefault.jpg)](https://www.youtube.com/watch?v=fylwX6hnKDk)
 
 ## how to use it
-
 download the yymps and drag it to your project. the rest is pretty easy: you need to disable automatic app surface drawing and then apply the filter to your app surface when its time to render the frame:
 
 so, for example your create event might look like this:
@@ -36,3 +34,6 @@ shader_set(twodee_threedee_pixel_art_aa_filter) {
 and that's really it. its a very small shader, doesn't blow out your render pipeline. the only requirement is that you need a higher resolution app surface for this to make sense, and you have to use the hardware texture filter to take advantage of what makes this method so cool.
 
 have fun, babies!
+
+## license
+you are free to use this shader in your gamemaker games or port it to whatever weird game engine you prefer but you **must** link to the original video from t3ssel8r
