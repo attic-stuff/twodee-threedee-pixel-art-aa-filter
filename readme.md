@@ -4,7 +4,7 @@ about a year or more ago this youtuber named t3ssel8r uploaded a [video](https:/
 
 here is an example of the filter in use, make sure you watch at fullscreen and in hd. the right side is with the filter, the left side is without it.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fylwX6hnKDk?si=8cx9CTSt-Takhjxq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![YouTube](http://i.ytimg.com/vi/fylwX6hnKDk/hqdefault.jpg)](https://www.youtube.com/watch?v=fylwX6hnKDk)
 
 ## how to use it
 
