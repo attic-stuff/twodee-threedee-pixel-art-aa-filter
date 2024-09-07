@@ -2,7 +2,7 @@
 
 about a year or more ago this youtuber named t3ssel8r uploaded a [video](https://www.youtube.com/watch?v=d6tp43wZqps) describing a new and cool method for antialiasing what is essentially low resolution billboards on high resolution render targets, in 3d. this is really nice if you make the kinds of things that i like to make: twodee threedee.
 
-here is an example of the filter in use, make sure you watch at fullscreen and in hd. the right side is with the filter, the left side is without it.
+click the image below to see an example of the filter in use, make sure you watch at fullscreen and in hd. the right side is with the filter, the left side is without it.
 
 [![YouTube](http://i.ytimg.com/vi/fylwX6hnKDk/hqdefault.jpg)](https://www.youtube.com/watch?v=fylwX6hnKDk)
 
